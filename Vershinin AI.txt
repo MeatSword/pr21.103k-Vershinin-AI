@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 fffffffВершинин АИff
+=======
+fffffffffВершинин АИ
+>>>>>>> session5
 Vershinin AI
+ffffffff
